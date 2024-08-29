@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Conway Trees
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jaime
+    family-names: Berkovich
+    email: jaime528@mit.edu
+    affiliation: Massachusetts Institute of Technology
+    orcid: 'https://orcid.org/0000-0003-3379-7231'
+abstract: >-
+  Conway Trees is a collection of scripts aimed at
+  showcasing the potential of 2D cellular automata for the
+  design of architected materials.
+keywords:
+  - cellular automata
+  - structural metamaterials
+  - bioinspired
+  - architected materials
+  - inverse tomography
+license: MIT
+commit: commit 2c3b73575a3df8a84fac1bcd5989f70582d90d95
+version: 1.0.0
+date-released: '2024-08-28'
