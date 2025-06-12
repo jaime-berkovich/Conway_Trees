@@ -1,0 +1,11 @@
+numpy>=1.21.0
+matplotlib>=3.4.0
+pandas>=1.3.0
+scipy>=1.7.0
+# Trimesh and its dependencies
+trimesh>=3.9.35
+pyglet>=1.5.0  # for visualization
+networkx>=2.6.0  # for graph operations
+lxml>=4.9.0  # for XML/STL parsing
+Rtree>=0.9.7  # for spatial indexing
+shapely>=1.8.0  # for geometric operations 
